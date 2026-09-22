@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:NewYorkFlyover/NewYorkFlyover.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:BerlinNightDescent/BerlinNightDescent.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:GlobeUnfurl/GlobeUnfurl.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:CrowdBloom/CrowdBloom.xcodeproj">
+   </FileRef>
+</Workspace>

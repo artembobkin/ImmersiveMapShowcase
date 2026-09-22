@@ -1,0 +1,14 @@
+.DS_Store
+# AI assistant configuration and instructions: local tooling, not part of the showcase.
+.claude/
+CLAUDE.md
+/DerivedData/
+DerivedData/
+/.build/
+/.swiftpm/
+**/xcuserdata/
+*.xcuserstate
+*.xcresult
+# Rendered footage: large, regenerated from the storyboard on demand.
+*.mov
+*.mp4
